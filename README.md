@@ -83,7 +83,3 @@ Login-System/
 - Each registered user will have a separate file inside this folder.
 
 ---
-
-## Author
-
-Developed as a C++ Mini Project.
